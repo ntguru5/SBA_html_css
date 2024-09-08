@@ -26,7 +26,7 @@ Dropdown menus for navigation.
 Table for contact information on the Contact Us page.
 
 ## CSS Features:
-CSS Flexbox and Grid for layout.
+CSS Flexbox for layout.
 External and internal CSS used.
 Complementary color palette.
 A carousel with smooth transitions.
