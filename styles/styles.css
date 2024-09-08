@@ -25,18 +25,17 @@ footer {
 }
 
 .mt-4 {
-    max-width: 1000px; /* Set the maximum width of the form */
-    margin: 0 auto;   /* Center the form */
+    max-width: 1000px;
+    margin: 0 auto;
     padding: 20px;
-    background-color: #f8f9fa; /* Light background for form */
-    border-radius: 10px; /* Rounded corners */
+    background-color: #f8f9fa;
+    border-radius: 10px;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.1); /* Subtle shadow */
 }
 
 .btn-primary {
     width: 100px;
-    height: 50px;
-    /* background-color: #E76F51; */
-    margin: 20px auto;
+    height: 40px;
+    margin: 0 auto;
     animation: bounce 2s infinite;
 }
