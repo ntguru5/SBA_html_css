@@ -37,15 +37,15 @@ Footer and other elements styled with CSS selectors.
 3. External Dependencies:
 - The project includes Bootstrap via CDN for easy setup.
 - No additional dependencies are required.
-File Structure
-`linkin-park-website/
-│
-├── index.html        # Home page
-├── products.html     # Products page with carousel
-├── contact.html      # Contact Us page with form
-├── images/           # Folder containing images for carousel
-│   ├── linkin-park-tshirt.jpg
-|   ├── linkin-park-meteora-tshirt.jpg
-│   ├── hybrid-theory-vinyl.jpg
-│   └── linkin-park-cap.jpg
-└── README.md         # Project documentation`
+## File Structure
+    linkin-park-website/
+    │
+    ├── index.html        # Home page
+    ├── products.html     # Products page with carousel
+    ├── contact.html      # Contact Us page with form
+    ├── images/           # Folder containing images for carousel
+    │   ├── linkin-park-tshirt.jpg
+    |   ├── linkin-park-meteora-tshirt.jpg
+    │   ├── hybrid-theory-vinyl.jpg
+    │   └── linkin-park-cap.jpg
+    └── README.md         # Project documentation
