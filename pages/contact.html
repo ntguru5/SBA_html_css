@@ -52,7 +52,7 @@
         </div>
         </div>
     </nav>
-        <div class="container mt-5">
+        <div class="container mt-4">
             <h1 class="text-center">Get in Touch with Linkin Park</h1>
             <p class="text-center">If you have any questions, feedback, or inquiries, feel free to contact us using the form below.</p>
         <form class="mt-4">
@@ -73,6 +73,14 @@
                 <textarea class="form-control" id="message" name="message" rows="5" placeholder="Type your message" required></textarea>
             </div>
             <button type="submit" class="btn btn-dark btn-block">Send Message</button>
+        </form>
+        <form action="subscribe-newsletter.php" method="POST" class="mt-4">
+            <h4>Subscribe to Our Newsletter</h4>
+            <div class="form-group">
+                <label for="newsletter-email">Email Address:</label>
+                <input type="email" class="form-control" id="newsletter-email" name="email" placeholder="Enter your email" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Subscribe</button>
         </form>
         </div>
 

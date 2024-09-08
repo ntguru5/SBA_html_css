@@ -24,11 +24,19 @@ footer {
     width: 100%;
 }
 
-.container {
+.mt-4 {
     max-width: 1000px; /* Set the maximum width of the form */
     margin: 0 auto;   /* Center the form */
     padding: 20px;
     background-color: #f8f9fa; /* Light background for form */
     border-radius: 10px; /* Rounded corners */
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.btn-primary {
+    width: 100px;
+    height: 50px;
+    /* background-color: #E76F51; */
+    margin: 20px auto;
+    animation: bounce 2s infinite;
 }
