@@ -34,7 +34,7 @@ Footer and other elements styled with CSS selectors.
 
 # Setup Instructions
 1. Clone the repository:
-`git clone https://github.com/***yourusername***/linkin-park-website.git`
+`git clone https://github.com/***yourusername***/SBA_html_css.git`
 2. Open the project:
 - Navigate to the project folder and open the index.html file in your browser to view the site.
 3. External Dependencies:
