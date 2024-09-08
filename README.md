@@ -18,7 +18,7 @@ The website makes use of Bootstrap for the layout and styling, and the carousel 
 ## Features
 **Responsive Layout:** The website is fully responsive and adjusts to different screen sizes using Bootstrap’s grid system.
 **Carousel:** The products page features a carousel that transitions between items without the need for JavaScript.
-**Forms:** The Contact Us page includes a form with various input fields for users to submit their details.
+**Forms:** The Contact Us page includes a form with various input fields for users to submit their details.<br>
 **Footer:** The footer is positioned at the bottom of the page.
 
 ## HTML Features:
