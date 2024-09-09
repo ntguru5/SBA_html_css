@@ -32,7 +32,7 @@ Table for contact information on the Contact Us page.
 - A carousel with smooth transitions.
 - Navbar, footer and other elements styled with CSS selectors.
 
-# Setup Instructions
+## Setup Instructions
 1. Clone the repository:
 `git clone https://github.com/***yourusername***/SBA_html_css.git`
 2. Open the project:
